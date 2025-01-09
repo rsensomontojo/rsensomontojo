@@ -8,7 +8,8 @@
 
 ## 👨‍💻 Sobre mí
 
-Actualmente, estoy en mi último año de formación y estoy emocionado por aplicar lo aprendido en proyectos reales mientras sigo creciendo profesionalmente. Soy un apasionado del desarrollo de software y diseño web, con experiencia en diversas tecnologías que me permiten crear soluciones dinámicas y eficientes.
+Estoy en mi último año del Grado Superior en Diseño de Aplicaciones Web y tengo muchas ganas de meterme de lleno en proyectos reales. Me encanta todo lo que tiene que ver con proyectos creativos, desde páginas web hasta aplicaciones funcionales. Durante estos años, he aprendido a manejar varias tecnologías que me ayudan a dar vida a ideas originales y prácticas.
+
 
 ---
 
