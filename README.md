@@ -71,8 +71,8 @@ Próximas prácticas en [Localmetric](https://www.localmetric.es/)
 
 ¡No dudes en ponerte en contacto conmigo!
 
-- **Email:** raul.senso.montojo@gmail.com
+- **Email:** rsensomontojo@gmail.com
 - **LinkedIn:** [Raúl Senso Montojo](https://www.linkedin.com/in/raul-senso)
-- **GitHub:** [raul-senso](https://github.com/raul-senso)
+- **GitHub:** [rsensomontojo](https://github.com/rsensomontojo)
 
 > Si te gusta mi trabajo, ¡no olvides dejar una estrella en este repositorio! ⭐
