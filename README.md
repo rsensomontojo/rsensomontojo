@@ -10,6 +10,9 @@
 
 Estoy en mi último año del Grado Superior en Diseño de Aplicaciones Web y tengo muchas ganas de meterme de lleno en proyectos reales. Me encanta todo lo que tiene que ver con proyectos creativos, desde páginas web hasta aplicaciones funcionales. Durante estos años, he aprendido a manejar varias tecnologías que me ayudan a dar vida a ideas originales y prácticas.
 
+En mis ratos libres, de forma autodidacta aprendiendo **Python**.
+
+Próximas prácticas en [Localmetric](https://www.localmetric.es/) 
 
 ---
 
@@ -35,6 +38,15 @@ Estoy en mi último año del Grado Superior en Diseño de Aplicaciones Web y ten
   [![Oracle](https://img.shields.io/badge/Oracle_SQL-19c-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://www.oracle.com/database/)
 
 ---
+
+## 🛠️ My Stack
+- **Frontend**: HTML, CSS, JavaScript, React, PHP
+- **Backend**: Node.js, NGINX
+- **Database**: MySQL, MongoDB
+- **Tools**: Git, Docker, VSCode, Microsoft Office (Word, Excel, PowerPoint)
+
+ ---
+
 
 ## 🌟 Proyectos Destacados
 
