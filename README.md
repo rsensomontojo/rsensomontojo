@@ -44,7 +44,7 @@ Próximas prácticas en [Localmetric](https://www.localmetric.es/)
 
 ## 🌟 Proyectos Destacados
 
-> Trabajando actualmente en los del grado que actualmente estoy cursando, pequeños proyectos. 
+> Trabajando actualmente en los del grado que actualmente estoy cursando (pequeños proyectos). 
 <!--
 ### 📂 [Gestor de Tareas](https://github.com/tu-repositorio/gestor-de-tareas)
 - **Descripción:** Una aplicación para gestionar tareas con autenticación de usuario y bases de datos.
