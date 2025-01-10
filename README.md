@@ -19,22 +19,16 @@ Próximas prácticas en [Localmetric](https://www.localmetric.es/)
 ## 🛠️ Habilidades
 
 ### Lenguajes de Programación
-- 
   [![Java](https://img.shields.io/badge/Java-11+-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.java.com/)
-- 
   [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-- 
   [![PHP](https://img.shields.io/badge/PHP-7.4+-blueviolet?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://www.php.net/)
 
 ### Desarrollo Web
-- 
   [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/HTML)
   [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ### Bases de Datos
-- 
   [![MySQL](https://img.shields.io/badge/MySQL-5.7+-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
-- 
   [![Oracle](https://img.shields.io/badge/Oracle_SQL-19c-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://www.oracle.com/database/)
 
 ---
