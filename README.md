@@ -2,7 +2,7 @@
 
 ![Banner](./Banner.png)
 
-¡Hola! Soy **Raúl Senso Montojo**, estudiante de último año del Grado Superior en **Diseño de Aplicaciones Web**. Este portafolio está diseñado para mostrar mis habilidades, proyectos y experiencia en el desarrollo web.
+¡Hola! Soy [**Raúl Senso Montojo**](https://rsensomontojo.github.io), estudiante de último año del Grado Superior en **Diseño de Aplicaciones Web**. Este portafolio está diseñado para mostrar mis habilidades, proyectos y experiencia en el desarrollo web.
 
 ---
 
