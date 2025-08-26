@@ -29,6 +29,8 @@ Próximas prácticas en [Localmetric](https://www.localmetric.es/)
 ### Bases de Datos
 [![MySQL](https://img.shields.io/badge/MySQL-5.7+-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)](https://www.mysql.com/)
 [![Oracle](https://img.shields.io/badge/Oracle_SQL-19c-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=C74634)](https://www.oracle.com/database/)
+[![SQL](https://img.shields.io/badge/SQL-Generic-lightgrey?style=for-the-badge&logo=databricks&logoColor=white&labelColor=003B57)](https://es.wikipedia.org/wiki/SQL)
+
 
 ---
 
